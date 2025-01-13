@@ -20,7 +20,7 @@ public class Main {
     public static int multiplication(int x , int y){
         return x * y;
     }
-    
+    hot
     public static int modulus(int x , int y){
         return x % y;
     }
