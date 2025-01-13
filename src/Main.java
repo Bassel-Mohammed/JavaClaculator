@@ -9,6 +9,11 @@ public class Main {
     }
 
 
+    public static int multiplication(int x , int y){
+        return x * y;
+    }
+
+
     public static void main (String []args){
 
         int x = 5;
